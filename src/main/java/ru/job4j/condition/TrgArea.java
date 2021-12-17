@@ -8,5 +8,6 @@ public class TrgArea {
 
     public static void main(String[] args) {
         System.out.println("area (2, 2, 2) = " + TrgArea.area(2, 2, 2));
+        System.out.println("area (3, 2.5, 1.5) = " + TrgArea.area(3, 2.5, 1.5));
     }
 }
