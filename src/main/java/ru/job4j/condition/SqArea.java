@@ -11,6 +11,5 @@ public class SqArea {
         System.out.println(" p = 4, k = 1, s = 1, real = " + SqArea.square(4, 1));
         System.out.println(" p = 6, k = 2, s = 2, real = " + SqArea.square(6, 2));
         System.out.println(" p = 3.6, k = 4.9, s = 0.56, real = " + SqArea.square(3.6, 4.9));
-
     }
 }
